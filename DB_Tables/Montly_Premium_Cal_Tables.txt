@@ -1,0 +1,23 @@
+-- Tables for the premium calculator
+CREATE TABLE Occupations (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(100) NOT NULL,
+    Rating NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE OccupationRatings (
+    Rating NVARCHAR(50) PRIMARY KEY,
+    Factor DECIMAL(10,4) NOT NULL
+);
+
+CREATE TABLE PremiumCalculations (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(200) NOT NULL,
+    AgeNextBirthday INT NOT NULL,
+    DateOfBirth DATE NOT NULL,
+    OccupationId INT NOT NULL,
+    DeathSumInsured DECIMAL(18,2) NOT NULL,
+    MonthlyPremium DECIMAL(18,2) NOT NULL,
+    CalculatedDate DATETIME2 NOT NULL DEFAULT GETDATE(),
+    FOREIGN KEY (OccupationId) REFERENCES Occupations(Id)
+);

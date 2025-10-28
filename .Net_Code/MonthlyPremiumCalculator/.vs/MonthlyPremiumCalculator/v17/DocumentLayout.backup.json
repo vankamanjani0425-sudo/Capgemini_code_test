@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\bal\\premiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\bal\\premiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\bal\\occupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\bal\\occupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\interfaces\\ioccupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\interfaces\\ioccupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\interfaces\\ipremiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\interfaces\\ipremiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\models\\occupationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\models\\occupationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\models\\premiumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\models\\premiumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\controllers\\occupationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\controllers\\occupationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\monthlypremiumcalculator\\monthlypremiumcalculator\\monthlypremiumcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EB21C06-BD2E-44B4-9E60-18820A9F53BD}|MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj|solutionrelative:monthlypremiumcalculator\\monthlypremiumcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\Member.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:09:08.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:04:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPremiumService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:04:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOccupationService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:03:34.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\DAL\\DataContext.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\DAL\\DataContext.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\DAL\\DataContext.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\DAL\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:07:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OccupationService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\BAL\\OccupationService.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\BAL\\OccupationService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\BAL\\OccupationService.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\BAL\\OccupationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:17:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\BAL\\PremiumService.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\BAL\\PremiumService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\BAL\\PremiumService.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\BAL\\PremiumService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:17:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\Occupation.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Models\\Occupation.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\Occupation.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Models\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:59:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OccupationRating.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\OccupationRating.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Models\\OccupationRating.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\OccupationRating.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Models\\OccupationRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:00:19.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PremiumResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\PremiumResponse.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Models\\PremiumResponse.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Models\\PremiumResponse.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Models\\PremiumResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:00:57.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Program.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:03:20.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OccupationsController.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\OccupationsController.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Controllers\\OccupationsController.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\OccupationsController.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Controllers\\OccupationsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:43:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PremiumController.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\PremiumController.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Controllers\\PremiumController.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\PremiumController.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Controllers\\PremiumController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:44:56.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MonthlyPremiumCalculator",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\MonthlyPremiumCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T06:07:48.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MonthlyPremiumCalculator\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\MonthlyPremiumCalculator\\MonthlyPremiumCalculator\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MonthlyPremiumCalculator\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:03:48.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
