@@ -1,0 +1,135 @@
+<div class="premium-calculator-container">
+  <h2>Monthly Premium Calculator</h2>
+  
+  <form [formGroup]="premiumForm" class="premium-form">
+    
+    <!-- Name Field -->
+    <div class="form-group">
+      <label for="name">Name *</label>
+      <input 
+        id="name"
+        type="text" 
+        formControlName="name" 
+        class="form-control"
+        [class.is-invalid]="name?.invalid && name?.touched"
+        placeholder="Enter your full name">
+      <div class="invalid-feedback" *ngIf="name?.invalid && name?.touched">
+        <div *ngIf="name?.errors?.['required']">Name is required</div>
+        <div *ngIf="name?.errors?.['maxlength']">Name cannot exceed 100 characters</div>
+      </div>
+    </div>
+
+    <!-- Age Field -->
+    <div class="form-group">
+      <label for="ageNextBirthday">Age Next Birthday *</label>
+      <input 
+        id="ageNextBirthday"
+        type="number" 
+        formControlName="ageNextBirthday" 
+        class="form-control"
+        [class.is-invalid]="ageNextBirthday?.invalid && ageNextBirthday?.touched"
+        min="18" 
+        max="100"
+        placeholder="Enter your age next birthday">
+      <div class="invalid-feedback" *ngIf="ageNextBirthday?.invalid && ageNextBirthday?.touched">
+        <div *ngIf="ageNextBirthday?.errors?.['required']">Age is required</div>
+        <div *ngIf="ageNextBirthday?.errors?.['min'] || ageNextBirthday?.errors?.['max']">
+          Age must be between 18 and 100
+        </div>
+      </div>
+    </div>
+
+    <!-- Date of Birth Field -->
+    <div class="form-group">
+      <label for="dateOfBirth">Date of Birth (MM/YYYY) *</label>
+      <input 
+        id="dateOfBirth"
+        type="text" 
+        formControlName="dateOfBirth" 
+        class="form-control"
+        [class.is-invalid]="dateOfBirth?.invalid && dateOfBirth?.touched"
+        placeholder="MM/YYYY (e.g., 12/1990)">
+      <div class="invalid-feedback" *ngIf="dateOfBirth?.invalid && dateOfBirth?.touched">
+        <div *ngIf="dateOfBirth?.errors?.['required']">Date of Birth is required</div>
+        <div *ngIf="dateOfBirth?.errors?.['invalidFormat']">Please use MM/YYYY format</div>
+        <div *ngIf="dateOfBirth?.errors?.['futureDate']">Date of Birth cannot be in the future</div>
+      </div>
+    </div>
+
+    <!-- Occupation Dropdown -->
+    <div class="form-group">
+      <label for="occupation">Occupation *</label>
+      <select 
+        id="occupation"
+        formControlName="occupation" 
+        class="form-control"
+        [class.is-invalid]="occupation?.invalid && occupation?.touched">
+        <option value="">Select Occupation</option>
+        <option *ngFor="let occupation of occupations" [value]="occupation.name">
+          {{ occupation.name }} ({{ occupation.rating }})
+        </option>
+      </select>
+      <div class="invalid-feedback" *ngIf="occupation?.invalid && occupation?.touched">
+        Occupation is required
+      </div>
+    </div>
+
+    <!-- Death Sum Insured -->
+    <div class="form-group">
+      <label for="deathSumInsured">Death - Sum Insured ($) *</label>
+      <input 
+        id="deathSumInsured"
+        type="number" 
+        formControlName="deathSumInsured" 
+        class="form-control"
+        [class.is-invalid]="deathSumInsured?.invalid && deathSumInsured?.touched"
+        min="1000" 
+        max="10000000"
+        placeholder="Enter death sum insured amount">
+      <div class="invalid-feedback" *ngIf="deathSumInsured?.invalid && deathSumInsured?.touched">
+        <div *ngIf="deathSumInsured?.errors?.['required']">Death Sum Insured is required</div>
+        <div *ngIf="deathSumInsured?.errors?.['min'] || deathSumInsured?.errors?.['max']">
+          Amount must be between $1,000 and $10,000,000
+        </div>
+      </div>
+    </div>
+
+    <!-- Action Buttons -->
+    <div class="form-actions">
+      <button 
+        type="button" 
+        class="btn btn-secondary" 
+        (click)="onReset()"
+        [disabled]="isLoading">
+        Reset
+      </button>
+    </div>
+  </form>
+
+  <!-- Loading Indicator -->
+  <div *ngIf="isLoading" class="loading-indicator">
+    <div class="spinner"></div>
+    <p>Calculating premium...</p>
+  </div>
+
+  <!-- Error Message -->
+  <div *ngIf="errorMessage" class="alert alert-error">
+    {{ errorMessage }}
+  </div>
+
+  <!-- Premium Result -->
+  <div *ngIf="premiumResult && !isLoading" class="premium-result">
+    <h3>Premium Calculation Result</h3>
+    <div class="premium-amount">
+      Monthly Premium: <strong>${{ premiumResult.monthlyPremium | number:'1.2-2' }}</strong>
+    </div>
+    <div class="calculation-details">
+      <small>{{ premiumResult.calculationDetails }}</small>
+    </div>
+  </div>
+
+  <!-- Form Validation Summary -->
+  <div *ngIf="premiumForm.invalid && premiumForm.touched" class="alert alert-warning">
+    Please fill in all required fields correctly to calculate the premium.
+  </div>
+</div>
