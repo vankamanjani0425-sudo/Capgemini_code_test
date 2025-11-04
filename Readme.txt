@@ -48,4 +48,8 @@ This application provides a monthly premium calculation service with Angular 20 
 
 ## API Endpoints
 - `GET /api/premium/occupations` - Get all occupations
+<<<<<<< HEAD
 - `POST /api/premium/calculate` - Calculate monthly premium
+=======
+- `POST /api/premium/calculate` - Calculate monthly premium
+>>>>>>> 9be9b7a08631c5bd186374b659dd92617bfe51b8
