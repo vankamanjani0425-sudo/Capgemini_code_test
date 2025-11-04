@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\services\\occupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\services\\occupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\services\\premiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\services\\premiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\exceptions\\invalidcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\exceptions\\invalidcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\exceptions\\occupationnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\exceptions\\occupationnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\interfaces\\ioccupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\interfaces\\ioccupationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\interfaces\\ipremiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\interfaces\\ipremiumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\models\\premiumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\models\\premiumrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\models\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|c:\\users\\pvenk\\source\\repos\\premiumcalculator\\premiumcalculator\\models\\premiumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433DB8BF-7237-4CFF-BE0D-0E1F48994917}|PremiumCalculator\\PremiumCalculator.csproj|solutionrelative:premiumcalculator\\models\\premiumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOccupationService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "RelativeToolTip": "PremiumCalculator\\Interfaces\\IOccupationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:20:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OccupationNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Exceptions\\OccupationNotFoundException.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Exceptions\\OccupationNotFoundException.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Exceptions\\OccupationNotFoundException.cs",
+              "RelativeToolTip": "PremiumCalculator\\Exceptions\\OccupationNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:25:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidCalculationException.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Exceptions\\InvalidCalculationException.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Exceptions\\InvalidCalculationException.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Exceptions\\InvalidCalculationException.cs",
+              "RelativeToolTip": "PremiumCalculator\\Exceptions\\InvalidCalculationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:25:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumController.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Controllers\\PremiumController.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Controllers\\PremiumController.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Controllers\\PremiumController.cs",
+              "RelativeToolTip": "PremiumCalculator\\Controllers\\PremiumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:24:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Services\\PremiumService.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Services\\PremiumService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Services\\PremiumService.cs",
+              "RelativeToolTip": "PremiumCalculator\\Services\\PremiumService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:28:09.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OccupationService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Services\\OccupationService.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Services\\OccupationService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Services\\OccupationService.cs",
+              "RelativeToolTip": "PremiumCalculator\\Services\\OccupationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:27:31.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPremiumService.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "RelativeToolTip": "PremiumCalculator\\Interfaces\\IPremiumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:21:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PremiumRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\PremiumRequest.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Models\\PremiumRequest.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\PremiumRequest.cs",
+              "RelativeToolTip": "PremiumCalculator\\Models\\PremiumRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:17:40.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\Occupation.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Models\\Occupation.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\Occupation.cs",
+              "RelativeToolTip": "PremiumCalculator\\Models\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:19:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Program.cs",
+              "RelativeToolTip": "PremiumCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:28:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PremiumResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\PremiumResponse.cs",
+              "RelativeDocumentMoniker": "PremiumCalculator\\Models\\PremiumResponse.cs",
+              "ToolTip": "C:\\Users\\pvenk\\source\\repos\\PremiumCalculator\\PremiumCalculator\\Models\\PremiumResponse.cs",
+              "RelativeToolTip": "PremiumCalculator\\Models\\PremiumResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:18:34.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

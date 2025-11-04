@@ -1,6 +1,0 @@
-@MonthlyPremiumCalculator_HostAddress = http://localhost:5047
-
-GET {{MonthlyPremiumCalculator_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
